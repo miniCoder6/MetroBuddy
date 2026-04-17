@@ -61,4 +61,3 @@ export const getSimulationHistory = () => api.get("/api/simulation/history");
 export const generateReport = (data: any) => api.post("/api/reports/generate", data);
 export const explainSchedule = () => api.post("/api/reports/explain-schedule");
 export const getReportHistory = () => api.get("/api/reports/history");
-
