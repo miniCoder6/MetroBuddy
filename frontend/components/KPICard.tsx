@@ -20,4 +20,3 @@ export default function KPICard({ title, value, sub, color = "#3b82f6", icon }: 
     </div>
   );
 }
-
