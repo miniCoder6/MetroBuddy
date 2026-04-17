@@ -1,0 +1,6 @@
+﻿{
+    "enableNewDashboard": true,
+    "useGraphQL": false,
+    "betaAccess": ["user_1", "user_2"],
+    "themeOverride": "dark-neo"
+}
