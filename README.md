@@ -61,7 +61,7 @@ metrobuddy/
 
 ---
 
-## 🚀 Local Development Setup
+## 🚀 Local Development setup
 
 ### Prerequisites
 - Python 3.10+
